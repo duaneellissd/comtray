@@ -368,7 +368,7 @@ namespace comtray
             this.ClientSize = new System.Drawing.Size(292, 266);
             this.Controls.Add(this.richTextBox);
             this.Name = "ComTrayGui";
-            this.Text = "Duane\'s ComTray (C) 2021 Duane Ellis";
+            this.Text = "Duane\'s ComTray V1";
             this.ResumeLayout(false);
 
         }
