@@ -30,6 +30,11 @@ And which device was just removed?
 
 - I wrote a C++ version at a previous place, they own that. 
 
+# Build tools
+
+I used Visual Studio Community 2019 - works for me.
+
+
 - I wanted to relearn some C# - so I re-created it.
 
 - About my C# code quality, basic statement: I suck at C# if you are good at it, you'll vomit at my C# quality.
