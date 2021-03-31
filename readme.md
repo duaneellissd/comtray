@@ -10,6 +10,8 @@ I often plug and unplug little IoT type gadgets, debuggers and cables and
 I am for ever trying to figure out is this thing COM7, or is this one COM82?
 In my line of work, COM305 is not uncommon.
 
+# Solution is this tool
+
 - Option 1 Double click on the ICON in the Windows SYSTEM TRAY
 
 And the window will appear, you can copy/cut and paste
